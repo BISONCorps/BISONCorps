@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We are BISON Corps.</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![IMG_2117](https://github.com/BISONCorps/BISONCorps/assets/165953907/8db9e4ec-afda-4647-909b-ee9b67fe71ff)
+<img src="https://github.com/BISONCorps/BISONCorps/assets/165953907/8db9e4ec-afda-4647-909b-ee9b67fe71ff")
 <h3 align="center">A passionate Computer Science Engineers from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BISONCorps&label=Profile%20views&color=0e75b6&style=flat" alt="BISONCorps" /> </p>
