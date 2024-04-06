@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![Nesandu GitHub stats](https://github-readme-stats.vercel.app/api?username=BISONCorps&show_icons=true&theme=radical) 
+![BISON Corps GitHub stats](https://github-readme-stats.vercel.app/api?username=BISONCorps&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BISONCorps&theme=radical)](https://git.io/streak-stats) 
 
 
